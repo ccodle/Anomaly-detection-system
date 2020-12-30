@@ -41,3 +41,4 @@ sudo gradle
 dir CICFlowMeter-master/
 ./gradlew execute
 ```
+可以完成数据的抓包以及相应的数据导出，异常识别等功能。
